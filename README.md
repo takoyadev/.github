@@ -1,1 +1,3 @@
-# .github
+# Takoya'dev
+
+Team of friendly developers
